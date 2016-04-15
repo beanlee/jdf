@@ -4,13 +4,15 @@
 
 [![NPM](https://nodei.co/npm/jdf.png?downloads=true)](https://nodei.co/npm/jdf/)
 
+![JDF](https://img13.360buyimg.com/da/jfs/t2350/181/2521504593/9048/4c2647fc/570b69efNc03ca3de.png)
+
 ## 更新日志
 
 * [changelog](https://github.com/putaoshu/jdf/blob/master/CHANGELOG.md)
 
 ## 关于JDF
 
-* JDF为京东前端开发集成解决方案
+* JDF为京东前端开发集成解决方案-Jingdong front-end integrated solution
 * 目的是合理，快速和高效的解决前端开发中的工程和项目问题
 * 核心提供了前端开发必备的基础的UI和业务组件，并集成调试，构建，布署，代码生成，文档生成，编辑器插件等一系列开发工具
 * 同时提供了前端模块的下载，预览，发布
