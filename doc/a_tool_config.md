@@ -39,6 +39,8 @@ config.json需要放在当前项目的根目录下, 详细配置如下：
 
 * `"widgetOutputName": "widget"` - 输出的所有widget合并后的文件名
 
+* `"widgetInputName": []` - 指定需要输出的widget名称
+
 * `"localServerPort": 80` - 本地服务器端口
 
 * `"configJsonFileContent": configJsonFileContent` - jdf配置文件的默认配置内容
@@ -125,7 +127,9 @@ var configJsonFileContent{
 	
 	* `"cssSpriteMode": 1` - 0: 将所有css文件中的背景图合并成一张sprite图片，1: 将每一个widget中的背景图分别合并成一张图片
 	
-	* `"cssSpriteMargin":10` - css sprite图片之间的间距
+	* `"cssSpriteMargin": 10` - css sprite图片之间的间距
+
+	* `"cssSpriteDirection": vertical` - vertical：垂直合并，horizontal：水平合并
 
 	* `base64: false` - 是否对图片进行base64编码
 	```css

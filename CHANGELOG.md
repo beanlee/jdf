@@ -1,5 +1,12 @@
 ##changelog
 
+### 2.0.1 / 2016-4-28 16:39:00
+* [add]cssSprite支持水平合并
+* [add]可以指定需要合并的widget名称
+
+### 2.0.0 / 2016-4-20 14:26:00
+* 发布jdf@2.0.0
+
 ### 1.8.42 / 2016-4-11 16:35:00
 * [add]jdf build support combo url
 * [add]support the CMD
